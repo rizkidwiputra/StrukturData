@@ -10,6 +10,10 @@ print("fibonaci deret ke-5  :", fibonaci(5))
 print("fibonaci deret ke-7  :", fibonaci(7))
 print("fibonaci deret ke-10 : ", fibonaci(10))
 
+<<<<<<< HEAD
 
 
 #opo
+=======
+# Cemas kao dek !!! bek bek bek
+>>>>>>> 8408e2b6ba3c4f30e16893be7a56349ea9fe0488
