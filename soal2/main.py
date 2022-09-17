@@ -14,3 +14,5 @@ print(bilangan, "adalah", palindrom(bilangan, 0, len(bilangan)))
 
 # Halo apa kabar
 # Halo juga
+
+# Siapa namamu?
