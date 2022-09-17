@@ -13,10 +13,11 @@ palindrom atau bukan
 3. 
 
 ## Soal 03
-###Data
+Data
 - panggil : bilangan >= 0 yang merepresentasikan nomor yang saat ini dilayani kasir
 - antrian : bilangan >= 0 yang merepresentasikan nomor nasabah terakhir yang mengambil nomor antrian
-###Operasi
+
+Operasi
 - upPanggil () : menaikkan nilai panggil sebanyak 1 (increment). bila sebelum operasi ini dieksekusi nilai 
 panggil = antrian, maka panggil tidak diincrement.
 - upAntrian () : menaikkan nilai antrian sebanyak 1 (increment). reset : memberi nilai 0 pada panggil dan 
@@ -37,10 +38,11 @@ antrian
     - 1 nasabah dilayani
 
 ## Soal 04
-###Data
+Data
 - x : bilangan yang merepresentasikan koordinat x sebuah titik
 - y : bilangan yang merepresentasikan koordinat y sebuah titik
-###Operasi
+
+Operasi
 - geserHorizontal (dx) : menggeser titik secara horizontal sejauh dx (boleh ke kiri/ke kanan) 
 - geserVertikal (dy) : menggeser titik secara vertikal sejauh dy (boleh ke atas/ke bawah)
 - hitungJarak (titik lain) : menerima inputan titik lain yang juga bertipe titik 2D. Kemudian menghitung 
