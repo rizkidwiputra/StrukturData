@@ -22,6 +22,7 @@ class titik:
     def getY(self):
         return self.y
 
+# ---> Implementasi ADT
 t1 = titik(2,3)
 t2 = titik(4,5)
 t1.geser_horizontal(-3)
