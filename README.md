@@ -3,14 +3,14 @@
 ## Soal 01
 1. Buat fungsi rekursif untuk menghitung bilangan Fibonacci ke-n
 2. Gunakan fungsi yang anda buat untuk menghitung bilangan Fibonacci ke 5, 7, 10
-3.
+3. Buat pohon rekursif untuk eksekusi pencarian Fibonacci ke 4
 
 ## Soal 02
 1. Buat fungsi rekursif untuk mengecek apakah sebuh list bilangan integer merupakan 
 palindrom atau bukan
 2. Gunakan fungsi yang anda buat untuk memeriksa list berikut apakah palindrom
 [1,2,3,4,4,3,2,1] atau bukan
-3. 
+3. Buat pohon rekursif untuk eksekusi pengecekan list berikut [1,2,3,4,4,3,2,1]
 
 ## Soal 03
 Data
