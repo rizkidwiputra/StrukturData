@@ -10,4 +10,4 @@ print("fibonaci deret ke-5  :", fibonaci(5))
 print("fibonaci deret ke-7  :", fibonaci(7))
 print("fibonaci deret ke-10 : ", fibonaci(10))
 
-#mabar
+# Cemas kao dek !!! bek bek bek
