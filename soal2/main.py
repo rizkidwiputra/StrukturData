@@ -1,3 +1,5 @@
+print("\n=====> Polindrom <=====\n")
+
 def palindrom(array,start, panjang):
     tengah = panjang//2
     belakang =+1

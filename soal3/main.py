@@ -1,3 +1,5 @@
+print("\n=====> Antrian Bank <=====\n")
+
 class Antrian:
     def __init__(self):
         self.panggil = 0
