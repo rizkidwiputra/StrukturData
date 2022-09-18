@@ -11,4 +11,4 @@ def palindrom(array, start, panjang):
 
 bilangan = [1,2,3,4,4,3,2,1]
 
-print(bilangan, "adalah", palindrom(bilangan, 0, len(bilangan)))
+print(f"{bilangan} {palindrom(bilangan, 0, len(bilangan))}")
